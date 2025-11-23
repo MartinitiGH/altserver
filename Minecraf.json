@@ -16,7 +16,28 @@
           "downloadURL": "https://github.com/MartinitiGH/altserver/releases/download/files/Minecraft.ipa",
           "size": 594772605
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.private.skip-library-validation",
+          "get-task-allow",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.pass-type-identifiers",
+          "platform-application",
+          "aps-environment",
+          "run-unsigned-code"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "For Xbox Live Friend Finder.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network.",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+        }
+      }
     }
   ]
 }
