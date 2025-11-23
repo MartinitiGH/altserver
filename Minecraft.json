@@ -1,10 +1,10 @@
 {
-  "name": "Minecraft",
-  "subtitle": "",
-  "description": "",
-  "iconURL": "https://github.com/MartinitiGH/altserver/blob/main/MlAud0d.png?raw=true",
+  "name": "Minecraft Repo",
+  "subtitle": "Мой личный источник",
+  "description": "Источник для Minecraft",
+  "iconURL": "https://raw.githubusercontent.com/MartinitiGH/altserver/main/MlAud0d.png",
   "website": "",
-  "patreonURL": "https://patreon.com/altstudio",
+  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.mojang.minecraftpe"
@@ -15,9 +15,9 @@
       "bundleIdentifier": "com.mojang.minecraftpe",
       "marketplaceID": "",
       "developerName": "Mojang",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://github.com/MartinitiGH/altserver/blob/main/MlAud0d.png?raw=true",
+      "subtitle": "Survival Game",
+      "localizedDescription": "Minecraft Pocket Edition",
+      "iconURL": "https://raw.githubusercontent.com/MartinitiGH/altserver/main/MlAud0d.png",
       "tintColor": "#54a434",
       "category": "games",
       "screenshots": [],
@@ -28,20 +28,15 @@
           "localizedDescription": "First AltStore release!",
           "downloadURL": "https://github.com/MartinitiGH/altserver/releases/download/files/Minecraft.ipa",
           "size": 594772605,
-          "buildVersion": null,
-          "minOSVersion": null
+          "buildVersion": "1.21.94",
+          "minOSVersion": "14.0"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "Used for Live Broadcast",
-          "NSMainNibFile": "MainWindow",
-          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency.",
           "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
-          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network.",
-          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
-          "NSContactsUsageDescription": "For Xbox Live Friend Finder.",
           "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images."
         }
       },
