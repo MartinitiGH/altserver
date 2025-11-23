@@ -6,6 +6,7 @@
     {
       "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
+      "localizedDescription": "Minecraft Pocket Edition",
       "developerName": "Mojang",
       "iconURL": "https://raw.githubusercontent.com/MartinitiGH/altserver/main/MlAud0d.png",
       "versions": [
