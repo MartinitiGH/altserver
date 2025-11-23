@@ -1,0 +1,21 @@
+{
+  "name": "Minecraft Source",
+  "identifier": "com.martiniti.minecraftsource",
+  "iconURL": "https://raw.githubusercontent.com/MartinitiGH/altserver/main/MlAud0d.png",
+  "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "iconURL": "https://raw.githubusercontent.com/MartinitiGH/altserver/main/MlAud0d.png",
+      "versions": [
+        {
+          "version": "1.21.94",
+          "date": "2025-11-23",
+          "downloadURL": "https://github.com/MartinitiGH/altserver/releases/download/files/Minecraft.ipa",
+          "size": 594772605
+        }
+      ]
+    }
+  ]
+}
