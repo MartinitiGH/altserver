@@ -1,0 +1,52 @@
+{
+  "name": "Minecraft",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://images.dwncdn.net/images/t_app-icon-l/p/37e7c396-96da-11e6-8d9b-00163ed833e7/3925887244/2097_4-75648482-logo",
+  "website": "",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.mojang.minecraftpe"
+  ],
+  "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Mojang",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/MlAud0d.png",
+      "tintColor": "#54a434",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.21.94",
+          "date": "2025-11-23",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "http://192.168.0.11:8000/Minecraft.ipa",
+          "size": 594772605,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSMainNibFile": "MainWindow",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency.",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network.",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "For Xbox Live Friend Finder.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
